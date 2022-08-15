@@ -1,1 +1,1 @@
-
+Randomized controlled trials (or A/B testing) in action: our team analyzed a four-year educational experiment aiming to evaluate the effect of small class sizes on learning. We tested the balance between treated and controlled. We solved the nasty school network effect by considering cluster-robust standard error and school fixed effect. We estimated heterogeneous effects comprehensively by considering the interaction between treatment and personal characteristics. 
